@@ -1,3 +1,3 @@
-# Kokoa Clone 2022 Update
+# Kakao Talk 클론코딩
 
-HTML & CSS are so much fun!
+- HTML & CSS
